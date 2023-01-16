@@ -14,10 +14,11 @@
     "@strapi/plugin-users-permissions": "4.5.6",
     "@strapi/provider-upload-cloudinary": "^4.5.6",
     "@strapi/strapi": "4.5.6",
-    "better-sqlite3": "7.4.6"
+    "better-sqlite3": "7.4.6",
+    "slugify": "^1.6.5"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Indranil Halder"
   },
   "strapi": {
     "uuid": "22b2e6b7-1585-419f-a41f-c3fe69923969"
